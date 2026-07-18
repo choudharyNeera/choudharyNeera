@@ -1,9 +1,50 @@
-- 👋 Hi, I’m "Neera Choudhary"
-- 👀 I’m interested in "Web Development"
-- 🌱 I’m currently working in "Node and React, Next, blockchain and AI"
-- 📫 How to reach me neerachy97@gmail.com
-- ✨ Other Skills are - "Database, HTML, CSS, RabbitMq, JavaScript, Data Annotating, Solidity"
-<!---
-choudharyNeera/choudharyNeera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi 👋 I'm Neera Choudhary
+
+Senior Software Engineer transitioning into AI Engineering.
+
+## 🚀 Currently Building
+
+- DocChat-AI — Production-ready local RAG application using Ollama
+- AI Engineering portfolio focused on LLM applications
+
+## 🧠 Interests
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- LangChain
+- FastAPI
+- Vector Databases
+- Prompt Engineering
+
+## 💻 Tech Stack
+
+### Backend
+- Python
+- TypeScript
+- Node.js
+- Express
+- FastAPI
+
+### AI
+- Ollama
+- LangChain
+- ChromaDB
+- Sentence Transformers
+- Embeddings
+- RAG
+
+### Databases
+- PostgreSQL
+- MongoDB
+- Redis
+
+### Cloud & DevOps
+- Docker
+- GitHub Actions
+
+## 🌱 2026 Goal
+
+Become a Production AI Engineer by building end-to-end AI applications.
+
+📫 Reach me: **neerachy97@gmail.com**
