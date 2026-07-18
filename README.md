@@ -1,6 +1,6 @@
 # Hi 👋 I'm Neera Choudhary
 
-Senior Software Engineer transitioning into AI Engineering.
+Senior Full Stack Engineer transitioning into AI Engineering.
 
 ## 🚀 Currently Building
 
