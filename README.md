@@ -4,7 +4,7 @@ Senior Full Stack Engineer with 5+ years of experience building scalable web app
 
 ## 🚀 Currently Building
 
-- DocChat-AI — Production-ready local RAG application using Ollama
+- DocChat-AI - Production-ready local RAG application using Ollama
 - Learning AI Engineering through production-quality projects
 - Exploring LLMs, AI Agents, and Retrieval-Augmented Generation
 
