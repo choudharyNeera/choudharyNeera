@@ -21,10 +21,11 @@ Senior Full Stack Engineer with 5+ years of experience building scalable web app
 ## 💻 Tech Stack
 
 ### Backend
-- Python
-- TypeScript
 - Node.js
+- TypeScript
 - Express
+- Nest
+- Python
 - FastAPI
 
 ### AI
@@ -38,6 +39,7 @@ Senior Full Stack Engineer with 5+ years of experience building scalable web app
 ### Databases
 - PostgreSQL
 - MongoDB
+- Bug Query
 - Redis
 
 ### Cloud & DevOps
